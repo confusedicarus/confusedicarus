@@ -1,6 +1,6 @@
-`confusedicarus / README.md
+confusedicarus / README.md
 
-
+```js
 import SoftwareDeveloper from 'rick-morrissette';
 
 class Bio extends SoftwareDeveloper{
@@ -14,4 +14,4 @@ class Skills extends SoftwareDeveloper{
   this.database     = ['MySQL', 'MongoDB'];
   this.technologies = ['React', 'GraphQL', 'Bootstrap', 'jQuery', 'Google API', 'Material-UI'];
  }
-`
+```
